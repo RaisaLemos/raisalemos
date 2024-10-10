@@ -35,7 +35,7 @@
 ## Portfolio:
 - [Classification Prediction](https://github.com/RaisaLemos/Classification_Prediction.git)
 - [Clustering](https://github.com/RaisaLemos/clustering.git)
-- [Rgression Prediction](https://github.com/RaisaLemos/Regression_prediction.git)
+- [Regression Prediction](https://github.com/RaisaLemos/Regression_prediction.git)
 - [Time Series Prediction](https://github.com/RaisaLemos/Time_Series_Prediction.git)
 
 <!-- GIF -->
