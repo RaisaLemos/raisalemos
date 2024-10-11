@@ -20,7 +20,7 @@
   
   <summary>👨‍💻 More about me</summary>
 
-  - I am 33 years old and currently live in the city of Pelotas, in the state of Rio Grande do Sul, Brazil. I have basic English and intermediate Spanish, as well as experience with Python, SQL, Data Analysis, Data Visualization, and Machine Learning. I am an agronomist, graduated in 2019, and hold a master's degree in Sciences, completed in 2022. This journey has helped me develop important skills such as creativity, effective communication, marketing, analytical ability, community management, and mastery of social media, which are essential for innovating and making an impact in the agricultural sector.
+  - I am 33 years old and currently live in the city of Pelotas, in the state of Rio Grande do Sul, Brazil. I have basic English and intermediate Spanish, as well as experience with Python, SQL, Data Analysis, Data Visualization, and Machine Learning. I am an agronomist engineer, graduated in 2019, and hold a master's degree in Sciences, completed in 2022. This journey has helped me develop important skills such as creativity, effective communication, marketing, analytical ability, community management, and mastery of social media, which are essential for innovating and making an impact in the agricultural sector.
 
 ⚡ I enjoy reading, whether it's a good book, academic articles, or biographies and autobiographies, as well as watching movies and playing board and card games! I believe that our personal interests contribute to a more refined perception of things and to problem-solving. \o/
 </details>
