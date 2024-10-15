@@ -32,7 +32,8 @@
 <!-- GithubStats -->
 ![RaisaLemos GitHub stats](https://github-readme-stats.vercel.app/api?username=RaisaLemos&show_icons=true&theme=gotham)
 
-![RaisaLemos GitHub stats](https://github-readme-stats.vercel.app/api?username=RaisaLemos&show_icons=true&theme=gotham)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RaisaLemos&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!-- Portfolio -->
 ## Portfolio:
