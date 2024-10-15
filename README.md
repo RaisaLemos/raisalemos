@@ -30,7 +30,8 @@
 
 
 <!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=raisalemos&show_icons=true&theme=gotham)
+![RaisaLemos GitHub stats](https://github-readme-stats.vercel.app/api?username=RaisaLemos&show_icons=true&theme=gotham)
+
 <!-- Portfolio -->
 ## Portfolio:
 - [Classification Prediction](https://github.com/RaisaLemos/Classification_Prediction.git)
