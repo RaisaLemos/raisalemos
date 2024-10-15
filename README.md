@@ -11,7 +11,6 @@
 <p>
 Hello 👋! I'm Raísa Lemos Pedrotti, passionate about the vast universe of Data. Welcome to my GitHub @RaisaLemos!
 
-
  Currently, my focus is on developing my skills in Data Science, always seeking new opportunities for learning and growth. I’m excited to dive into this field and make meaningful contributions!
 
   - 🌱 I’m currently in the fifth semester of a six-semester Technologist program in Analysis and System Development at the Catholic University of Pelotas (UCPel)..
@@ -34,7 +33,7 @@ Hello 👋! I'm Raísa Lemos Pedrotti, passionate about the vast universe of Dat
 
 
 <!-- GithubStats -->
-![RaisaLemos GitHub stats](https://github-readme-stats.vercel.app/api?username=RaisaLemos&show_icons=true&theme=gotham)
+![RaisaLemos GitHub stats](https://github-readme-stats.vercel.app/api?username=RaisaLemos&show_icons=true&theme=gotham&rank_icon=github)
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RaisaLemos&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
