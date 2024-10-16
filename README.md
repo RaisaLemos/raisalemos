@@ -80,4 +80,4 @@ Currently, my focus is on developing my skills in Data Science, always seeking n
   </div>
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0000ff&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9745F5&height=120&section=footer"/>
