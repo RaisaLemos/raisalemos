@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=RaisaLemos&color=9745F5)
 [![GitHub](https://img.shields.io/badge/Access%20My%20GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RaisaLemos)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=35&center=true&vCenter=true&width=1000&lines=I+am+a+Data+Scientist+👩‍💻;I+am+from+Pelotas,+RS,+Brasil+🇧🇷📍;I+study+analysis+and+systems+development+at+UCPel+📚;I+am+passionate+about+the+world+of+data+❤️;Be+Welcome!+🙂)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ADD8E6&size=35&center=true&vCenter=true&width=1000&lines=I+am+a+Data+Scientist+👩‍💻;I+am+from+Pelotas,+RS,+Brasil+🇧🇷📍;I+study+analysis+and+systems+development+at+UCPel+📚;I+am+passionate+about+the+world+of+data+❤️;Be+Welcome!+🙂)](https://git.io/typing-svg)
 
 <!--título-->
 <div id="user-content-toc">
