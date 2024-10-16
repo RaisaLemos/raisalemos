@@ -1,5 +1,10 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000ff&height=120&section=header"/>
+
+
 ![](https://komarev.com/ghpvc/?username=RaisaLemos&color=9745F5)
 [![GitHub](https://img.shields.io/badge/Access%20My%20GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RaisaLemos)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=35&center=true&vCenter=true&width=1000&lines=I+am+a+Data+Scientist+👩‍💻;I+am+from+Pelotas,+RS,+Brasil+🇧🇷📍;I+study+analysis+and+systems+development+at+UCPel+📚;I+am+passionate+about+the+world+of+data+❤️;Be+Welcome!+🙂)](https://git.io/typing-svg)
 
 <!--título-->
 <div id="user-content-toc">
@@ -33,9 +38,7 @@ Currently, my focus is on developing my skills in Data Science, always seeking n
 
 
 <!-- GithubStats -->
-![RaisaLemos GitHub stats](https://github-readme-stats.vercel.app/api?username=RaisaLemos&show_icons=true&theme=gotham&rank_icon=github)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaisaLemos&theme=gotham)
+![RaisaLemos GitHub stats](https://github-readme-stats.vercel.app/api?username=RaisaLemos&show_icons=true&theme=gotham&rank_icon=github)     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaisaLemos&theme=gotham)
 <!-- Portfolio -->
 ## Portfolio:
 - [Classification Prediction](https://github.com/RaisaLemos/Classification_Prediction.git)
@@ -76,3 +79,5 @@ Currently, my focus is on developing my skills in Data Science, always seeking n
     <img align="center" alt="Scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
   </div>
 
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0000ff&height=120&section=footer"/>
