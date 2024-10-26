@@ -18,7 +18,7 @@ Hello 👋! I'm Raísa Lemos Pedrotti, passionate about the vast universe of Dat
 
 Currently, my focus is on developing my skills in Data Science, always seeking new opportunities for learning and growth. I’m excited to dive into this field and make meaningful contributions!
 
-  - 🌱 I’m currently in the fifth semester of a six-semester Technologist program in Analysis and System Development at the Catholic University of Pelotas (UCPel)..
+  - 🌱 I’m currently in the fifth semester of a six-semester Technologist program in Analysis and System Development at the Catholic University of Pelotas (UCPel).
 
   - 🔭 I am seeking my first professional opportunity as a junior data scientist, following two years of internships in data science, machine learning, and AI, where I worked on consulting projects across different market segments.
 </p>
